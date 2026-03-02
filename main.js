@@ -3,7 +3,7 @@
    ============================================= */
 
 // ⬇️ PASTE YOUR GOOGLE APPS SCRIPT WEB APP URL BELOW (Step 3 in the Apps Script guide)
-const SHEET_URL = 'https://script.google.com/macros/s/AKfycbyaSu433CuTwIf8ZjPutARwgOMl1BjExM4JpnDyY7KLOFgPiDRUe-JFUYgcN5Yqtm6D/exec';
+const SHEET_URL = 'https://script.google.com/macros/s/AKfycbxHBExWGU3umLduldqk2EcysDx00qBVTg-GXRHqiioonwGWh52GpIMBH2nfELSFUKtD/exec';
 
 document.addEventListener('DOMContentLoaded', () => {
 
