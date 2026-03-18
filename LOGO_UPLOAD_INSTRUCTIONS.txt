@@ -1,0 +1,10 @@
+Upload these logo files to this folder:
+- amity.png (amity_logo.png)
+- nmims.png (nmimsuniversitylogo.png)
+- manipal.png (manipal.png)
+- jain.webp (JainOnlineLogo_addc71da.webp)
+- lpu.png (Lovely_Professional_University_logo.png)
+- cu.webp (culogow.webp)
+- symbiosis.png (logo_symboisis.png)
+- ignou.png (ignou.png)
+- vignan.jpeg (vignanuniversityonlinelogo.jpeg)
